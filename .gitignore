@@ -1,0 +1,7 @@
+/obj/
+Source/obj/
+/Assemblies/
+/Source/.vs/
+Thumbs.db
+/Source/Mending.dll
+/Source/ChangeDresser.dll

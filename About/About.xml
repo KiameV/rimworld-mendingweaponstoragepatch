@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[KV] B18 - Mending Weapon Storage Patch</name>
+    <author>Kiame Vivacity</author>
+    <targetVersion>0.18.0</targetVersion>
+	<url></url>
+    <description>A patch for Mending which allows pawns to remove weapons from Weapon Storages.
+</description>
+</ModMetaData>
